@@ -1,5 +1,6 @@
-# health_interrogation
-Repositiorio sobre generación de preguntas para comprender mejor la reforma de salud propuesta por el gobierno. A continuación una muestra de las preguntas respuestas y elección generadas por los agentes **agent_reforma** y **agent_100** y evaluado por  **agent_wiki**
+## health_interrogation
+Repositiorio sobre generación de preguntas para comprender mejor la reforma de salud propuesta por el gobierno. A continuación una muestra de las preguntas respuestas y elección generadas por los agentes **agent_reforma** y **agent_100** y evaluado por  **agent_wiki**. La columna origen explica de que tipo de metodología proviene la pregunta, framework proviene del proceso asociado los clusters y youTube son preguntas generadas por el contenido de videos que abordaron el tema.
+
 
 |     Origen   |         Pregunta       |     respuesta reforma  |  respuesta ley 100     |    Elección   |
 |--------------|------------------------|------------------------|------------------------|---------------|
